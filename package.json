@@ -1,0 +1,19 @@
+{
+  "name": "demo-simple",
+  "version": "1.0.0",
+  "description": "发布到当前目录的output路径下",
+  "main": "fis-conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fis-parser-less": "^0.1.3",
+    "fis3-preprocessor-autoprefixer": "^0.1.1"
+  }
+}
